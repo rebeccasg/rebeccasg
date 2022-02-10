@@ -1,6 +1,6 @@
 👋 Hello, I'm **Rebecca Gutteridge**
 
-I'm a Customer Solutions Engineer at Google, where I spend my time open sourcing solutions on top of GMP 🤖. 
+I'm an Android Developer Relations Engineer at Google, where I spend some of my time open sourcing solutions 🤖. 
 
 Outside of my day job, I am passionate about UI and UX design.
 
